@@ -1,0 +1,8 @@
+#!/bin/bash
+# Chatgen server start
+git clone https://github.com/huggingface/transformers.git
+git clone https://github.com/Lucas1988/Lea_public
+pip install transformers 
+cd Lea_public/examples
+pip install -r requirements.txt
+git clone https://github.com/nshepperd/gpt-2.git

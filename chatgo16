@@ -1,0 +1,17 @@
+#!/bin/bash
+# Chatgen server start
+rseed=3288425
+counter=1
+while [ $counter -le 100 ]
+do 
+python3 t14gen.py --model_type=gpt2 --model_name_or_path=gpt2-xl --top_k=40 --top_p=1 --length=60 --repetition_penalty=1 \
+--char1=Sarah --char2=Mark --char3=Norman --char4=Matthew \
+--context="Hi everyone.  [Faces camera.]  Welcome to our performance of a virtual one-act play. [Pours a glass of water, takes a sip].  I'm a human writing these lines, but some of the others [points towards other actors] are reading parts written by a computer.  [Takes another sip of water.]  It may be easy to tell which one of us has our lines written by a computer, but it makes it no less uncanny.  [Adjusts computer, sighs heavily.]  What strange times we live in, indeed.  Enjoy the show!  Hello?" \
+--seed=$rseed
+echo $counter
+scp -i ~/chatgen.pem Scene* ubuntu@ec2-18-219-113-41.us-east-2.compute.amazonaws.com:/home/ubuntu/jul25b/
+((counter++))
+((rseed++))
+done
+echo All done
+
