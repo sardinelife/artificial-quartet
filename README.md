@@ -7,7 +7,7 @@ This play was written using the GPT-2 language model released by OpenAI.  It was
 
 This produced interesting results, but did require a fair amount of after-the-fact pruning/cherrypicking of examples (as much AI-generated art does).  My attempts to have the AI generate a one-act play in one shot did not succeed - although I did get quite a few full scenes or chunks of dialog.  It's fair to say the text of this FT play entry is co-written by human and AI: human-prompted, computer-generated, but human selected.  I discarded many lines, but was able to use a few large chunks.  I also moved other lines around.  I did not however add any lines - my only "human" writing contribution was the prompts that started each cycle of 50-100 generated lines, which I then chose from.  
 
-Additinally, to maximize the use of the AI as a creative prompt, I initially interacted one-on-one with the AI generator in a chat session.  I decided to call the AI character "Playwright" and ask it questions - such as: What should the names of the characters be?  Where should the play be set?  That's how I (we?) decided to give the play the subtitle of "The World of Tomorrow".
+Additinally, to maximize the use of the AI as a creative prompt, I initially interacted one-on-one with the AI generator in a chat session.  I decided to call the AI character "Playwright" and ask it questions - such as: What should the names of the characters be?  Where should the play be set?  For example, that's how I (we?) decided to give the play its subtitle.  When asked where the play should be set, the program responded: "It takes place in a virtual world, The World of Tomorrow."
 
 Staging notes:
 
