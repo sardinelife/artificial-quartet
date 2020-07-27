@@ -15,7 +15,7 @@ The OpenAI jukebox, released in April 2020, allows for computer generation of a 
 
 A suitable staging for the play would be a video chat.  Staging options could use a custom background for each actor.  These could be computer-generated images, such as those found on www.artbreeder.com: a fantastic tool for combining images based on their essential qualities (and others).  One can do such things as take a photo of a mosque, combine it with a photo of a church, and then tweak it by adding more jellyfish qualities to it, increasing the jellyfish-ness.  Or the mosquito net-ishness of it.
 
-A few samples are included for consideration on the github page for this project.
+A few samples are included for consideration on this page.
 
 Made using:
 
