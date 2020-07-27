@@ -31,3 +31,5 @@ Random.org
 
 www.artbreeder.com
 
+OpenAI Jukebox / Google Colab:  https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb
+
