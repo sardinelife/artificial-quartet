@@ -3,24 +3,19 @@
 
 About the play:
 
-This play was written using the GPT-2 language model released by OpenAI.  To generate the dialogue, I first found a chat generation script called "LEA".  I've modified that extensively and tried a few different approaches.
+This play was written using the GPT-2 language model released by OpenAI.  To generate the dialogue, I first found a chat generation script called "LEA".  I've modified that extensively and tried a few different approaches.   I developed a program that would generate four-character scenes based on a prompt.  I then ran it for several iterations using various prompts, and selected and re-arranged the lines.  I organized it by scene and gave it a basic framework but I wrote none of the dialogue:  even the staging directions within the dialogue are computer generated.
 
-I've allowed prompts for character names and some context, and then let the computer generate a discussion.  This has produced some interesting results, but requires a lot of after-the-fact pruning or cherrypicking of examples.  The text is computer-generated, but human selected. 
+I entered prompts for character names and some context, and then let the computer generate a discussion.  This produced interesting results, but did require a fair amount of after-the-fact pruning/cherrypicking of examples.  The text is computer-generated, but human selected.  My attempts to have the AI generate a one-act play in one shot did not succeed - although I did get quite a few full scenes or chunks of dialog.
 
-Additinally, to maximize the use of the AI as a creative prompt, I also interacted one-on-one with the AI generator in a chat session.  I decided to call the AI character "Playwright" and ask it questions - such as: What should the names of the characters ?)
+Additinally, to maximize the use of the AI as a creative prompt, I also initially interacted one-on-one with the AI generator in a chat session.  I decided to call the AI character "Playwright" and ask it questions - such as: What should the names of the characters be?  Where should the play be set?  That's how I (we?) decided to give the play the subtitle of "The World of Tomorrow".
 
 Staging notes:
 
 The OpenAI jukebox, released in April 2020, allows for computer generation of a song based on an artist, a genre, and a set of lyrics.  Such a song could be used as intro/outro music for the play.
 
-The setting for the play is a video chat.  Staging options could use a custom background for each actor.  These could be computer-generated images, such as those found on www.artbreeder.com: a fantastic tool for combining images based on their essential qualities (and others).  You can do such things as take a photo of a mosque, combine it with a photo of a church, and then tweak it by adding more jellyfish qualities to it, increasing the jellyfish-ness.  Or the mosquito net-ishness of it.
+Probably the most suitable staging for the play is a video chat.  Staging options could use a custom background for each actor.  These could be computer-generated images, such as those found on www.artbreeder.com: a fantastic tool for combining images based on their essential qualities (and others).  One can do such things as take a photo of a mosque, combine it with a photo of a church, and then tweak it by adding more jellyfish qualities to it, increasing the jellyfish-ness.  Or the mosquito net-ishness of it.
 
 A few samples are included for consideration on the github page for this project.
-
-
-##AI-generated setting ideas:
-	it takes place in a virtual world,
-	The World of Tomorrow
 
 Made using:
 
